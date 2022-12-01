@@ -1,0 +1,482 @@
+body {
+background-image: url("https://cdn.sci.esa.int/documents/34247/35306/1567217129561-heic1313b_625.jpg");
+}
+
+
+.mainlogo {
+    width: 850px;
+    position: absolute;
+    margin-top: 300px;
+}
+
+.container {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    position: absolute;
+    width: 500px;
+    margin-top: 1250px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: white;
+}
+
+.startbutton {
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    margin-top: 800px;
+}
+
+p {
+    color: white;
+    position: absolute;
+    margin-top: 850px;
+    width: 400px;
+}
+
+h2 {
+    color: white;
+    position: absolute;
+    margin-top: 820px;
+}
+
+.container2 {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1a {
+    margin-bottom: 1000px;
+    font-size: 70px;
+    width: 600px;
+}
+
+.button1 {
+    width: 1080px;
+    position: absolute;
+    margin-top: 700px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button2 {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1150px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button3 {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1600px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.next1 {
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    margin-top: 250px;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+}
+
+.container3 {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1b {
+    margin-bottom: 1000px;
+    font-size: 70px;
+    width: 600px;
+}
+  
+.button1a {
+    width: 1080px;
+    position: absolute;
+    margin-top: 700px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button2a {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1150px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button3a {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1600px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.next2 {
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    margin-top: 250px;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+}
+
+.container4 {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1c {
+    margin-bottom: 1000px;
+    font-size: 70px;
+    width: 600px;
+}
+  
+.button1b {
+    width: 1080px;
+    position: absolute;
+    margin-top: 700px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button2b {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1150px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button3b {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1600px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.next3 {
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    margin-top: 250px;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+}
+
+.container5 {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1d {
+    margin-bottom: 1000px;
+    font-size: 70px;
+    width: 600px;
+}
+
+.button1c {
+    width: 1080px;
+    position: absolute;
+    margin-top: 700px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button2c {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1150px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button3c {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1600px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.next4 {
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    margin-top: 250px;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+}
+
+.container6 {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1e {
+    margin-bottom: 1000px;
+    font-size: 70px;
+    width: 650px;
+}
+
+.button1d {
+    width: 1080px;
+    position: absolute;
+    margin-top: 700px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button2d {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1150px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button3d {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1600px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.next5 {
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    margin-top: 250px;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+}
+
+.container7 {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1f {
+    margin-bottom: 1000px;
+    font-size: 64px;
+    width: 750px;
+}
+
+.button1e {
+    width: 1080px;
+    position: absolute;
+    margin-top: 700px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button2e {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1150px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button3e {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1600px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.next6 {
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    margin-top: 250px;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+}
+
+.container8 {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1g {
+    margin-bottom: 1000px;
+    font-size: 70px;
+    width: 750px;
+}
+
+.button1f {
+    width: 1080px;
+    position: absolute;
+    margin-top: 700px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button2f {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1150px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button3f {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1600px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.next7 {
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    margin-top: 250px;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+}
+
+.container9 {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1h {
+    margin-bottom: 1000px;
+    font-size: 70px;
+    width: 600px;
+}
+
+.button1g {
+    width: 1080px;
+    position: absolute;
+    margin-top: 700px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button2g {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1150px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button3g {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1600px;
+    height: 200px;
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.next8 {
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    margin-top: 250px;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+}
+
